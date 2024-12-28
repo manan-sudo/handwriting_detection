@@ -34,7 +34,7 @@ This project implements a Handwritten Digit Recognition system using deep learni
    ```
 
 3. **Run the Code**
-   Open the `notebook.ipynb` file in Jupyter or Google Colab and execute the cells.
+   Open the `main.ipynb` file in Jupyter or Google Colab and execute the cells.
 
 ---
 
