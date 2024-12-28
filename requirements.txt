@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 numpy
 opencv-python
 matplotlib
 tensorflow
+=======
+numpy
+opencv-python
+matplotlib
+tensorflow
+>>>>>>> 9855809bc3003bb7315d40976b7e919747d99244
